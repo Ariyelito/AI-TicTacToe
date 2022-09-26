@@ -13,6 +13,7 @@ joueur = 0
 ordi = 0
 ordiIA = 0
 moves = []
+global ayt 
 
 
 def a_gagner(b, l):
