@@ -14,6 +14,7 @@ ordi = 0
 ordiIA = 0
 moves = []
 global ayt 
+global essaie
 
 
 def a_gagner(b, l):
